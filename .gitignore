@@ -1,0 +1,7 @@
+.gradle
+.idea
+build
+out
+contacts.json
+*.yaml
+task.html
